@@ -1,6 +1,7 @@
 body {
   background-color: black;
   text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 h1 {
@@ -15,4 +16,15 @@ h2 {
   font-weight: 300;
   font-size: 42px;
   color: white;
+}
+
+h4 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 21px;
+  color: grey;
+}
+
+.link {
+  color: aquamarine;
+  font-size: 16px;
 }
